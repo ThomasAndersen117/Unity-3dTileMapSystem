@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abc5ff3224ce284885d7e6818e89d7f, type: 3}
+  m_Name: Test Level Manager
+  m_EditorClassIdentifier: 
+  Teams: []
+  Level: {fileID: 2800000, guid: e5a0200d17a8d1e4289e143013668816, type: 3}
+  map: {fileID: 11400000, guid: d4d8cac99c3efbc42b6b753c18431528, type: 2}
+  TileTypes:
+  - {fileID: 11400000, guid: bfe3e8c011b97c247afe84999b31bdc4, type: 2}
+  mapScale: {fileID: 11400000, guid: 37b489e9ea3702b49ab25f4e454e54ce, type: 2}
